@@ -84,21 +84,3 @@
   border: 0px;
   width:35%;
 }
-
-#ProjectsName {
-  position: absolute;
-  top: 60%;
-  left: 10%;
-  font-size: 350%;
-  font-family: 'Montserrat', sans-serif;
-  color: white
-}
-
-#CurrentNone {
-  position: absolute;
-  font-size: 155%;
-  top: 60%;
-  left: 10%;
-  font-family: 'Comic Sans MS', Times, serif;
-  color: white;
-}
