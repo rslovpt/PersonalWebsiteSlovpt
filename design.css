@@ -1,0 +1,104 @@
+.main {
+  text-align: center;
+  width: 100%;
+  position: absolute;
+  top: 15%;
+
+  font-size: 200%;
+  font-weight: 100;
+  font-family: 'Courier', 'Courier New', Courier, monospace;
+  color: white
+}
+
+.main img {
+  display: block;
+  border-radius: 50%;
+  margin: 0 auto;
+  border-radius: 100%;
+  border: 2px solid whitesmoke;
+  width: 125px;
+}
+
+.main h1 {
+  font-size: 200%;
+  font-weight: 100;
+}
+
+.main h3 {
+  font-family: 'Courier', 'Courier New', Courier, monospace;
+  font-size: 100%;
+  font-weight: 200;
+  color: turquoise;
+}
+
+.twitter {
+  position: absolute;
+  width: 100%;
+  left: -60px;
+  top: 90%;
+  
+}
+
+.twitter img {
+  width: 50px;
+  scale: 50px;
+}
+
+.discord {
+  position: absolute;
+  width: 100%;
+  left: 0px;
+  top: 90%;
+  
+}
+
+.discord img {
+  width: 50px;
+  scale: 50px;
+}
+
+.github {
+  position: absolute;
+  width: 100%;
+  left: 60px;
+  top: 90%;
+}
+
+.github img {
+  width: 50px;
+  scale: 50px;
+  margin: 0 auto;
+  border: 2px solid whitesmoke;
+  outline-offset: -2px;
+}
+
+.SectionOneDivision h4{
+  width: 100%;
+  font-family: 'Courier', 'Courier New', Courier, monospace;
+  font-size: 100%;
+  font-weight: 200;
+}
+
+.SectionOneDivision img {
+  border-radius: 0%;
+  border: 0px;
+  width:35%;
+}
+
+#ProjectsName {
+  position: absolute;
+  top: 60%;
+  left: 10%;
+  font-size: 350%;
+  font-family: 'Montserrat', sans-serif;
+  color: white
+}
+
+#CurrentNone {
+  position: absolute;
+  font-size: 155%;
+  top: 60%;
+  left: 10%;
+  font-family: 'Comic Sans MS', Times, serif;
+  color: white;
+}
